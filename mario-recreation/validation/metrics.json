@@ -1,0 +1,33 @@
+{
+  "opening_static_region": {
+    "compared_pixels": 50944,
+    "matching_pixels": 50944,
+    "exact_match_fraction": 1.0,
+    "excluded": "top 40 rows (HUD); x=32..47,y=192..207 (Mario)",
+    "scope": "Only the opening scene's static geometry/palette, not whole-game accuracy"
+  },
+  "footage": [
+    {
+      "timestamp_seconds": 12,
+      "reference_camera_inferred": 430,
+      "capture": "pipes",
+      "recreation_camera": 430,
+      "note": "Similar location, different actions and animation phase. Visual comparison, not a synchronized trajectory equivalence test."
+    },
+    {
+      "timestamp_seconds": 14,
+      "reference_camera_inferred": 610,
+      "capture": "pipe-jump",
+      "recreation_camera": 610.860352,
+      "note": "Similar location, different actions and animation phase. Visual comparison, not a synchronized trajectory equivalence test."
+    },
+    {
+      "timestamp_seconds": 15,
+      "reference_camera_inferred": 700,
+      "capture": "goombas",
+      "recreation_camera": 700.604492,
+      "note": "Similar location, different actions and animation phase. Visual comparison, not a synchronized trajectory equivalence test."
+    }
+  ],
+  "binary_sha256": "8fde2f7013d1569f388463c2572ae01f52110c622fb0a9458955a9ef12ce3c0f"
+}

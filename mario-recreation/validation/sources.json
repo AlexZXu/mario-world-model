@@ -1,0 +1,48 @@
+{
+  "video": {
+    "url": "https://archive.org/download/supermariobros_walkathonv3_happylee/supermariobros-walkathonv3-happylee.avi",
+    "title": "Super Mario Bros - Tool Assisted Speedrun (Walking) by HappyLee",
+    "timestamp_seconds": [
+      12,
+      14,
+      15
+    ],
+    "crop": "256x224 encoded; eight native rows cropped from top and bottom"
+  },
+  "map": {
+    "url": "https://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap1-1BG.png",
+    "page": "https://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosWorld1-1MapBG.html"
+  },
+  "additional_still": {
+    "url": "https://www.mariowiki.com/images/1/13/SMB_NES_World_1-1_Screenshot.png"
+  },
+  "files": {
+    "nes-06.png": "39176104a96498998e0bb318e18c05289c9ff4d82b17a299e27a73cac65d7292",
+    "nes-08.png": "997aa5e8386179a1570549f1dd4f2e75c10753332a22ae199d42642ae55d696c",
+    "nes-10.png": "6381cfc68699eda889d8c4dca3fda06690e2303c181dc4c405a93f829bd2d79a",
+    "nes-100.png": "537fd51f8e9a91f56cb5c91eaa433ef11caef277ed381c26d4b20b60dea1b259",
+    "nes-11.png": "fdff21d342d61057ab7eb419b682498f221ae949f4482bad151cfaa1f34c5e2e",
+    "nes-12.png": "177a6b3987ef08c3c10c870e337dfb455b4fad4a9f18b96a71b5afd22cd66d12",
+    "nes-14.png": "31f27985dd62e3e4c5730bd9827574e6302f2de89aafaff9b6815f5e03c1e5d1",
+    "nes-15.png": "f4d1d93ad3e5fe9f5373ba1dd4a79b389020b8a4af6d73f95ef1b7280a6e6506",
+    "nes-16.png": "bdac819ee14726eaeb1ac3ce6072f8cc76b98928557a52e5aa3a493c7a7d158e",
+    "nes-17.png": "358f3f1dba66b371b7a2f023424b4f3dedb10832664119cecf45018605726021",
+    "nes-20.png": "feaec3d541bf7c4714a873c28fb889756a91b43c85d405f74271aadf1eadca66",
+    "nes-21.png": "76b6b814633fce9da827e40bc429ac3496ef3c5a7140d4b8bd361327f5fc6dc6",
+    "nes-22.png": "1a9f96f5aa6dc795d4c10b13219bb5ffbabad87610b7fbdad93c932f029aeee7",
+    "nes-28.png": "be4420515daa3c628c40ba5eb4746c7c4421672ec9cd96c9589b4086e84c2c19",
+    "nes-30.png": "d8a150beda5e94bae70a8fcd66cca9a63fe9ed590d031967fbe1e15dfe83bc12",
+    "nes-31.png": "bd56d4980c3872ddc904e4025f548758e4888eb9d0af5a1dfbe298767ba68eb6",
+    "nes-6.2.png": "cb3fac6a1b5476cffd21d53cc769e752e3e43faa990384bdba057be659da03c2",
+    "nes-6.5.png": "9d28cf0f5ac0fe8718c6e2351c0e437cee04be46483acc39ffc49446308928c6",
+    "nes-6.8.png": "704fe8d25306d860b9b5c0ca73000b24b2f020f81fa13572c314e73a04718558",
+    "nes-60.png": "60c063dbc296a54284c3328c18877f666504369afcf573f5c867560daf162dec",
+    "walkathon.avi": "b8e6908f8a4ad3130bc343d95c4c4a6106a59978a2a9be091501e6a8b4de892d",
+    "wiki-1-1.png": "16723dc72acde47951aa426cb7c57350b6373ba695c723f244ac617b41bc84e4",
+    "world1-1-map.png": "687505fd669652281f62206b67caddce78ceb63451e98a25c6200d773920f5d3"
+  },
+  "validated_build": {
+    "binary_sha256": "8fde2f7013d1569f388463c2572ae01f52110c622fb0a9458955a9ef12ce3c0f",
+    "resources_sha256": "cd535826bd44263ffadd5eefbae4d36345b74590c49dbf2e5b8b579f86898989"
+  }
+}

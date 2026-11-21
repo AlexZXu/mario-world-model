@@ -1,0 +1,514 @@
+[
+  {
+    "level": "1-1",
+    "frame": 416,
+    "dead": true,
+    "player": {
+      "x": 703.943359,
+      "y": 192,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "1-2",
+    "frame": 600,
+    "dead": false,
+    "player": {
+      "x": 543.34375,
+      "y": 448.5625,
+      "vx": 1.83398438,
+      "vy": 0.5625,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 5
+    }
+  },
+  {
+    "level": "1-3",
+    "frame": 144,
+    "dead": true,
+    "player": {
+      "x": 298.671875,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "1-4",
+    "frame": 154,
+    "dead": true,
+    "player": {
+      "x": 224.834961,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "2-1",
+    "frame": 227,
+    "dead": true,
+    "player": {
+      "x": 326.538086,
+      "y": 370,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "2-2",
+    "frame": 600,
+    "dead": false,
+    "player": {
+      "x": 512,
+      "y": 456.886353,
+      "vx": 0.300500005,
+      "vy": -0.923599184,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 6
+    }
+  },
+  {
+    "level": "2-3",
+    "frame": 481,
+    "dead": true,
+    "player": {
+      "x": 1072.83496,
+      "y": 259.6875,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "2-4",
+    "frame": 600,
+    "dead": false,
+    "player": {
+      "x": 1264,
+      "y": 149.125,
+      "vx": 0.0556640625,
+      "vy": -2.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 5
+    }
+  },
+  {
+    "level": "3-1",
+    "frame": 169,
+    "dead": true,
+    "player": {
+      "x": 364.307617,
+      "y": 432,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "3-2",
+    "frame": 250,
+    "dead": true,
+    "player": {
+      "x": 566.807617,
+      "y": 176.375,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "3-3",
+    "frame": 144,
+    "dead": true,
+    "player": {
+      "x": 298.671875,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "3-4",
+    "frame": 383,
+    "dead": true,
+    "player": {
+      "x": 752.834961,
+      "y": 256.625,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "4-1",
+    "frame": 275,
+    "dead": true,
+    "player": {
+      "x": 528.834961,
+      "y": 256.625,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "4-2",
+    "frame": 340,
+    "dead": true,
+    "player": {
+      "x": 256.834961,
+      "y": 547.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "4-3",
+    "frame": 189,
+    "dead": true,
+    "player": {
+      "x": 414.142578,
+      "y": 128,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "4-4",
+    "frame": 367,
+    "dead": true,
+    "player": {
+      "x": 801.117188,
+      "y": 80,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "5-1",
+    "frame": 131,
+    "dead": true,
+    "player": {
+      "x": 269.307617,
+      "y": 192,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "5-2",
+    "frame": 283,
+    "dead": true,
+    "player": {
+      "x": 453.234375,
+      "y": 497.5625,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "5-3",
+    "frame": 144,
+    "dead": true,
+    "player": {
+      "x": 298.671875,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "5-4",
+    "frame": 172,
+    "dead": true,
+    "player": {
+      "x": 330.654297,
+      "y": 90.25,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "6-1",
+    "frame": 510,
+    "dead": true,
+    "player": {
+      "x": 640.834961,
+      "y": 256.625,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "6-2",
+    "frame": 437,
+    "dead": true,
+    "player": {
+      "x": 614.286133,
+      "y": 400,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "6-3",
+    "frame": 144,
+    "dead": true,
+    "player": {
+      "x": 274.504883,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "6-4",
+    "frame": 154,
+    "dead": true,
+    "player": {
+      "x": 224.834961,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "7-1",
+    "frame": 510,
+    "dead": true,
+    "player": {
+      "x": 720,
+      "y": 192,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "7-2",
+    "frame": 600,
+    "dead": false,
+    "player": {
+      "x": 512,
+      "y": 456.886353,
+      "vx": 0.300500005,
+      "vy": -0.923599184,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 6
+    }
+  },
+  {
+    "level": "7-3",
+    "frame": 480,
+    "dead": true,
+    "player": {
+      "x": 1072.83496,
+      "y": 259.75,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "7-4",
+    "frame": 230,
+    "dead": true,
+    "player": {
+      "x": 416.834961,
+      "y": 256.299988,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "8-1",
+    "frame": 124,
+    "dead": true,
+    "player": {
+      "x": 251.807617,
+      "y": 192,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "8-2",
+    "frame": 137,
+    "dead": true,
+    "player": {
+      "x": 256.333984,
+      "y": 170.625,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "8-3",
+    "frame": 508,
+    "dead": true,
+    "player": {
+      "x": 853.041016,
+      "y": 128,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  },
+  {
+    "level": "8-4",
+    "frame": 98,
+    "dead": true,
+    "player": {
+      "x": 143.541016,
+      "y": 259.6875,
+      "vx": 0,
+      "vy": -6.25,
+      "width": 16,
+      "height": 16,
+      "power": 0,
+      "star": false,
+      "animation": 12
+    }
+  }
+]
